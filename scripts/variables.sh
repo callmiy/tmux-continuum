@@ -1,3 +1,5 @@
+# shellcheck disable=2034
+
 SUPPORTED_VERSION="1.9"
 
 # these tmux options contain paths to tmux resurrect save and restore scripts
